@@ -7,4 +7,5 @@ Customizing the window relies on modifying a build time asset, MainWindow.xaml. 
 This application uses net9.0-windows10.0.19041.0 .
 
 Example screenshot:
-<img width="3840" height="72" alt="image" src="https://github.com/user-attachments/assets/52e34b05-df1c-4a26-80e0-796eef844184" />
+
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/c1de95b2-8c1f-4ffd-8b3f-f75a5d275ddc" />
