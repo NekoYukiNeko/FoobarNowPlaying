@@ -5,3 +5,6 @@ Because this was designed to be used as an OBS overlay via window capture, the a
 Customizing the window relies on modifying a build time asset, MainWindow.xaml. If changes are made to this file, you will need to rebuild the solution.
 
 This application uses net9.0-windows10.0.19041.0 .
+
+Example screenshot:
+<img width="3840" height="72" alt="image" src="https://github.com/user-attachments/assets/52e34b05-df1c-4a26-80e0-796eef844184" />
